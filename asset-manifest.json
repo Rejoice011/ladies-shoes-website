@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ladies-shoes-website/static/css/main.e2cafd10.css",
+    "main.js": "/ladies-shoes-website/static/js/main.a213ff5b.js",
+    "static/media/firsthome.webp": "/ladies-shoes-website/static/media/firsthome.9bf63b5536cf5e9a5d8b.webp",
+    "static/media/second.webp": "/ladies-shoes-website/static/media/second.33d0487ebdfe03af4990.webp",
+    "static/media/women shoes.webp": "/ladies-shoes-website/static/media/women shoes.0a98f65b4250d6418285.webp",
+    "static/media/bg90.jpg": "/ladies-shoes-website/static/media/bg90.3496339b9463f3fcee9e.jpg",
+    "static/media/about1.webp": "/ladies-shoes-website/static/media/about1.b99c388d1767bcd37935.webp",
+    "static/media/logo.png": "/ladies-shoes-website/static/media/logo.95d8d1df612ce3624367.png",
+    "static/media/product2.webp": "/ladies-shoes-website/static/media/product2.ea271476caf30966a9ca.webp",
+    "static/media/project3.webp": "/ladies-shoes-website/static/media/project3.d1263c0f2bec5542b453.webp",
+    "static/media/about3.webp": "/ladies-shoes-website/static/media/about3.f3fc4eb3e5be1483fe11.webp",
+    "index.html": "/ladies-shoes-website/index.html",
+    "main.e2cafd10.css.map": "/ladies-shoes-website/static/css/main.e2cafd10.css.map",
+    "main.a213ff5b.js.map": "/ladies-shoes-website/static/js/main.a213ff5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2cafd10.css",
+    "static/js/main.a213ff5b.js"
+  ]
+}
